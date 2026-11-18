@@ -22,7 +22,7 @@ class ImageOfflineWidget extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Image.asset(
-              'assets/images/Sinon_GGO.webp',
+              'assets/images/mizuki.jpg',
               height: 200,
               width: double.infinity,
               fit: BoxFit.cover,
@@ -33,7 +33,7 @@ class ImageOfflineWidget extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   const Text(
-                    'Sinon from SAO',
+                    'Mizuki from PJSK',
                     style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                   ),
                   const SizedBox(height: 8),

@@ -159,7 +159,7 @@ class _GreetingRow extends StatelessWidget {
               ),
               SizedBox(height: 2),
               Text(
-                'Giovanni 👋',
+                'Fatar 👋',
                 style: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.w800,

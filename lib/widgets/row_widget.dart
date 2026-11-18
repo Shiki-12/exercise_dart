@@ -547,7 +547,7 @@ class RowWidget extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Giovanni',
+                        'Fatar',
                         style: TextStyle(fontWeight: FontWeight.bold),
                       ),
                       Text(

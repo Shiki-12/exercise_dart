@@ -271,7 +271,7 @@ class Tugas1Widget extends StatelessWidget {
                       ),
                       const SizedBox(height: 14),
                       const Text(
-                        'Giovanni Achmad Avicena',
+                        'Fatar Gaza',
                         style: TextStyle(
                           fontSize: 18,
                           fontWeight: FontWeight.bold,

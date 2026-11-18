@@ -635,7 +635,7 @@ class ColumnWidget extends StatelessWidget {
                       SizedBox(height: 16),
 
                       Text(
-                        'Giovanni Achmad Avicena',
+                        'Fatar Gaza',
                         style: TextStyle(
                           fontSize: 22,
                           fontWeight: FontWeight.bold,

@@ -141,7 +141,7 @@ class StackWidget extends StatelessWidget {
                   child: Stack(
                     children: [
                       Image.asset(
-                        'assets/images/Sinon_GGO.webp',
+                        'assets/images/mizuki.jpg',
                         width: 300,
                         height: 180,
                         fit: BoxFit.cover,

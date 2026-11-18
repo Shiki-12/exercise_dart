@@ -22,7 +22,7 @@ class SizeboxWidget extends StatelessWidget {
               CircleAvatar(radius: 50, child: Icon(Icons.person, size: 50)),
               SizedBox(height: 25),
               Text(
-                'Giovanni',
+                'Fatar',
                 style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
               ),
               SizedBox(height: 5),
